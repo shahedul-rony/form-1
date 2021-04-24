@@ -1,0 +1,150 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    display: ex;
+}
+header{
+
+background-color: #2861b0;
+
+/* width: 40%; */
+
+/* margin: auto; */
+}
+header nav{
+
+width: 40%;
+
+margin: auto;
+}
+header nav ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-around;
+
+padding: 15px 0;
+}
+header nav ul li{
+
+}
+header nav ul li a{
+    
+color: white;
+    
+text-decoration: none;
+    
+font-size: 20px;
+    
+font-weight: 400;
+    
+text-transform: capitalize;
+}
+.content{
+  
+display: flex;
+}
+.left{
+
+width: 40%;
+}
+.left img{
+    
+width: 100%;
+    
+padding-bottom: 0px;
+}
+.right-form{
+
+background: #00adff;
+
+width: 60%;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+margin-bottom: 5px;
+}
+.form{
+
+width: 50%;
+
+/* background: blue; */
+}
+.form h1{
+    
+color: white;
+    
+margin-bottom: 10px;
+}
+.form p{
+
+color: white;
+
+margin-bottom: 10px;
+}
+.form h4{
+
+color: white;
+
+margin-bottom: 15px;
+}
+.form form{
+
+}
+.form form input{
+
+width: 100%;
+
+border: none;
+
+padding: 10px 0 5px 10px;
+
+margin: 5px 0;
+}
+.form form input[type="submit"]{
+    
+width: 30%;
+    
+/* margin-left: 0; */
+    
+padding-left: 0;
+    
+text-align: center;
+    
+text-transform: capitalize;
+    
+font-weight: 400;
+    
+font-size: 15px;
+    
+color: #8d8d8d;
+}
+nav{
+
+}
+nav ul{
+
+list-style: none;
+
+display: flex;
+
+padding: 20px;
+
+justify-content: space-around;
+}
+nav ul li{
+
+color: white;
+
+font-weight: 600;
+}
+nav ul li p{
+    
+font-weight: 200;
+}
